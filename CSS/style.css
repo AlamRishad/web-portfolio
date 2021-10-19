@@ -37,3 +37,51 @@ section{
     color: white;
     font-weight: 700;
 }
+.banner2{
+    background-image: url("../image/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+.experience-highlight{
+    color: chartreuse;
+}
+.Ex{
+    margin-left: 55px;
+}
+.third{
+    float: left;
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    height: 80%;
+    border-radius: 5px;
+    margin-left: 55px;
+    margin-right: 20px;    
+    padding:10px;
+}
+#First-box{
+    border-left: 7px solid;
+    
+    border-image: linear-gradient(rgb(0, 255, 0),green);
+    border-image-slice: 1;
+    background-color: white;
+
+}
+#Second-box{
+    border-left: 7px solid;
+    
+    border-image: linear-gradient(rgb(255, 217, 0),rgb(68, 128, 0));
+    border-image-slice: 1;
+
+}
+.experience{
+    background-image: url("../image/image23.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 80px;
+    margin-bottom: 80px;
+}
+.foot{
+    text-align: center;
+    color: grey;
+}
